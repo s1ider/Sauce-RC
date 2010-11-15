@@ -1,8 +1,8 @@
 Sauce RC
 ========
 
-Sauce RC has a controller component with is a web server and a platform
-dependent user interface.
+Sauce RC is a commercially supported, open-source distribution of `Selenium 
+<http://saucelabs.com/docs/quickstart>`_ RC from `Sauce Labs <http://saucelabs.com/>`_.
 
 Source Organization
 ===================
